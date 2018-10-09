@@ -1,0 +1,5 @@
+/Users/trailcode/emscripten/webAsmPlay/build3/CMakeFiles/rebuild_cache.dir
+/Users/trailcode/emscripten/webAsmPlay/build3/CMakeFiles/edit_cache.dir
+/Users/trailcode/emscripten/webAsmPlay/build3/CMakeFiles/webAsmPlay.dir
+/Users/trailcode/emscripten/webAsmPlay/build3/CMakeFiles/worker.dir
+/Users/trailcode/emscripten/webAsmPlay/build3/CMakeFiles/web.dir
