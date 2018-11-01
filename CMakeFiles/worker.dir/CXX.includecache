@@ -6,9 +6,3 @@
 
 #IncludeRegexTransform: 
 
-/Users/trailcode/emscripten/webAsmPlay/src/Worker.cpp
-iostream
--
-emscripten/emscripten.h
--
-

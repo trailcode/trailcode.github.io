@@ -10,14 +10,13 @@ set(CMAKE_CXX_COMPILER_ID "Emscripten")
 
 # Preprocessor definitions for this target.
 set(CMAKE_TARGET_DEFINITIONS_CXX
+  "SOURCE_BASE_PATH=R\"(/Users/trailcode/emscripten/webAsmPlay)\""
   "USE_UNSTABLE_GEOS_CPP_API"
   "__EMSCRIPTEN__"
   )
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "../glfw-imgui-emscripten"
-  "../glfw-imgui-emscripten/imgui"
   "../GLUTesselator/include"
   "../geos/include"
   "../glm"
@@ -26,6 +25,9 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "../globjects/include"
   "../opensteer/include"
   "../GeoServer/inc"
+  "../imgui"
+  "../imguiAddons/imguitoolbar"
+  "../SimpleJSON/inc"
   "../tceGeom/inc"
   "../tceCore/inc"
   "../tceOpenSteer/inc"
